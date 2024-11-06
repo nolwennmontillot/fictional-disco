@@ -1,1 +1,1 @@
-# my website project for git classroom 
+# My website project for my git class 
